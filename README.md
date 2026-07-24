@@ -1,82 +1,81 @@
-<h1 align="center">✨ Hi, I’m Wish245 👑</h1>
-<p align="center">🔮 React Wizard | 🧬 FastAPI Alchemist | 🌸 Building the Flower Market of the Future</p>
+<h1 align="center">Hi 👋, I'm Wish245</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=F77FFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Wish245!;Architect+of+Realms+Digital+and+Divine.;Craftsman+of+Order+from+Chaos.;Conjurer+of+Flow,+Function,+and+Form.;Wielder+of+Logic,+Lore,+and+Lightning.;Forging+Futures+One+Spell+at+a+Time.">
+  <b>Python Developer • AI/ML Enthusiast • Hobby Programmer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Building+AI+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🧙‍♂️ About Me
+# 👨‍💻 About Me
 
-- 🚀 A Young Scholar of Computer Sciences embarking on a Quest to become a Master Software Developer.
-- 🌍 Passionate about blending frontend magic with backend rituals.
-- 🧩 Loves React.js, C# & .NET, and turning caffeine into code.
-- 🌸 Always curious, forever learning new magic.
+- 🐍 Python developer passionate about AI and Machine Learning.
+- 🤖 Learning Deep Learning, NLP, and Computer Vision.
+- 📊 Exploring data analysis and predictive modeling.
+- 💡 I enjoy building projects that solve real-world problems.
+- 🌱 Currently learning PyTorch, Hugging Face, and MLOps.
 
 ---
 
-## 🧰 Tech Stack
+# 🛠 Tech Stack
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF7043?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-1565C0?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-00599C?style=for-the-badge&logo=api&logoColor=white)
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Development
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![.env](https://img.shields.io/badge/.env-222222?style=for-the-badge&logo=dotenv&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Logging](https://img.shields.io/badge/Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wish245&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=wish245&theme=tokyonight&hide_border=true" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=wish245&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wish245&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wish245&theme=onedark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wish245&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=wish245&theme=tokyonight" />
 </p>
 
 ---
 
-## ✍️ Wisdom Scrolls (Coming Soon)
+# 🚀 Current Focus
 
-🧾 *Stay tuned for blogs on React spellcraft, FastAPI rituals, and full-stack quests!*  
-📌 *ETA: May 2025*
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sankha-wishwanath/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading scrolls..." width="100"/>
-  </a>
-</p>
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Generative AI
+- Kaggle Competitions
 
 ---
 
-## 🌐 Let’s Connect
+# 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankha-wishwanath/" target="_blank">
@@ -87,10 +86,11 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wish245" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wish245?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=wish245" />
 </p>
 
 ---
 
-> *"Keep coding, keep conjuring, and may your bugs be few and your commits be mighty."* 🧙‍♂️
+<p align="center">
+  <i>"Learning, Building, and Sharing AI one project at a time."</i>
+</p>
